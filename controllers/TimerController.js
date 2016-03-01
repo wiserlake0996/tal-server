@@ -10,7 +10,7 @@ var timerStart = () =>{
     
     var mailOptions = {
         from: "talflux@gmail.com", // sender address
-        to: "ibrahimd7@gmail.com", // list of receivers
+        to: "wiserlake0996@gmail.com", // list of receivers
         subject: "Daily Tal Flux Reminder", // Subject line
         text:  emailBody, // plaintext body
         html: emailBody // html body
