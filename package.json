@@ -1,0 +1,29 @@
+{
+  "name": "tal-server",
+  "version": "1.0.0",
+  "description": "server to push reminder items from tal to user",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiserlake0996/tal-server.git"
+  },
+  "keywords": [
+    "tal",
+    "node",
+    "firebase"
+  ],
+  "author": "wiserlake0996",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiserlake0996/tal-server/issues"
+  },
+  "homepage": "https://github.com/wiserlake0996/tal-server#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "firebase": "^2.4.1",
+    "nodemailer": "^2.2.1"
+  }
+}
